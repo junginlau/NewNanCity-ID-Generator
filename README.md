@@ -1,1 +1,1 @@
-[https://](https://github.com/Sasuke1003/NewNanCity-ID-Generator)
+[Click me to get in NewNanCity ID generator](https://sasuke1003.github.io/NewNanCity-ID-Generator)
